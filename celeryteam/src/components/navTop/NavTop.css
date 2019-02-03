@@ -1,0 +1,19 @@
+.topNavBox{
+    width: 100vw;
+    height: 150px;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background: #19d8d8;
+}
+
+.topNavHomeLink{
+    font-size: 2.5em;
+}
+
+.topNavUserLinks{
+    font-size: 1.5em;
+}

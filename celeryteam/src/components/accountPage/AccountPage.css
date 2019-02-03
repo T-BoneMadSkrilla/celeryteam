@@ -1,0 +1,15 @@
+.accountPageOuterBox{
+    overflow-x: hidden;
+    width: 100vw;
+    min-height: 100vh;
+    background: #666666;
+    display: flex;
+    justify-content: center;
+	align-items: center;
+}
+
+.accountPageInnerBox{
+    width: 80vw;
+    min-height: 100vh;
+    background:#e0e0e0;
+}
